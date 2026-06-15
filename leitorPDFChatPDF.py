@@ -5,7 +5,7 @@ files = [
     ('file', ('file', open(caminho_arquivo, 'rb'), 'application/octet-stream'))
 ]
 headers = {
-    'x-api-key': 'sec_gl1ZYlz9EoW1w6HbE1FBecFauXDNSGiG'
+    'x-api-key': 'REMOVED_FOR_GITHUB'
 }
 
 response = requests.post(
